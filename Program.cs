@@ -5,17 +5,17 @@
 //["hello", "2", "world", ":-)"] -> ["2",":-)"]
 //["Russia", "Denmark", "Kazan"] -> []
 
-string[]array1 = new string[7] {"hello", "2", "world", ":-)", "88", "yes", "no"};
+string[]array1 = new string[7] {"hello", "2", "world", ":-)", "88", "yes", "geek"};
 string[]array2 = new string[array1.Length];
 
 void SecondArray (string[]array1, string[]array2)
 {
     int count = 0;
-    for (int i=0; i<array1.Length;i++)
+    for (int i = 0; i < array1.Length; i++)
     {
-        if (array1[i].Length<=3)
+        if (array1[i].Length <= 3)
         {
-            array2[count]=array1[i];
+            array2[count] = array1[i];
             count++;
         }
     }
@@ -23,11 +23,12 @@ void SecondArray (string[]array1, string[]array2)
 
 void PrintArray (string[] array)
 {
+    Console.Write($"[");
     for (int i = 0; i < array.Length; i++)
     {
-        Console.Write($"{array[i]}  " );
+        Console.Write($"{array[i]} " );
     }
-    Console.WriteLine();
+    Console.WriteLine("]");
 }
 
 SecondArray(array1, array2);
