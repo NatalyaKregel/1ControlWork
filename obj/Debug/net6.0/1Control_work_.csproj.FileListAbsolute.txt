@@ -1,0 +1,15 @@
+C:\Users\main\Documents\GB_nata\1Control_work_\bin\Debug\net6.0\1Control_work_.exe
+C:\Users\main\Documents\GB_nata\1Control_work_\bin\Debug\net6.0\1Control_work_.deps.json
+C:\Users\main\Documents\GB_nata\1Control_work_\bin\Debug\net6.0\1Control_work_.runtimeconfig.json
+C:\Users\main\Documents\GB_nata\1Control_work_\bin\Debug\net6.0\1Control_work_.dll
+C:\Users\main\Documents\GB_nata\1Control_work_\bin\Debug\net6.0\1Control_work_.pdb
+C:\Users\main\Documents\GB_nata\1Control_work_\obj\Debug\net6.0\1Control_work_.csproj.AssemblyReference.cache
+C:\Users\main\Documents\GB_nata\1Control_work_\obj\Debug\net6.0\1Control_work_.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\main\Documents\GB_nata\1Control_work_\obj\Debug\net6.0\1Control_work_.AssemblyInfoInputs.cache
+C:\Users\main\Documents\GB_nata\1Control_work_\obj\Debug\net6.0\1Control_work_.AssemblyInfo.cs
+C:\Users\main\Documents\GB_nata\1Control_work_\obj\Debug\net6.0\1Control_work_.csproj.CoreCompileInputs.cache
+C:\Users\main\Documents\GB_nata\1Control_work_\obj\Debug\net6.0\1Control_work_.dll
+C:\Users\main\Documents\GB_nata\1Control_work_\obj\Debug\net6.0\refint\1Control_work_.dll
+C:\Users\main\Documents\GB_nata\1Control_work_\obj\Debug\net6.0\1Control_work_.pdb
+C:\Users\main\Documents\GB_nata\1Control_work_\obj\Debug\net6.0\1Control_work_.genruntimeconfig.cache
+C:\Users\main\Documents\GB_nata\1Control_work_\obj\Debug\net6.0\ref\1Control_work_.dll
