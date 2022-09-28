@@ -4,3 +4,6 @@
 
 //["hello", "2", "world", ":-)"] -> ["2",":-)"]
 //["Russia", "Denmark", "Kazan"] -> []
+
+string[]array1 = new string[7] {"hello", "2", "world", ":-)", "88", "yes", "no"};
+string[]array2 = new string[array1.Length];
